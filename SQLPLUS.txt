@@ -1,0 +1,1 @@
+SQLPLUS /nolog : 데이터베이스에는 접속하지 않고 SQL Plus만 기동시키는 커맨드.
